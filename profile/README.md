@@ -9,7 +9,7 @@ QCM, tests gratuits, simulations d’examen, flashcards et suivi de progression.
 
 ## Préparez l’examen civique 2026 en ligne
 
-**LeTestCivique.fr** est une plateforme en ligne dédiée à la **préparation de l’examen civique français**, obligatoire depuis le **1er janvier 2026** pour certaines démarches administratives comme :
+**LeTestCivique.fr** est une plateforme en ligne dédiée à la **préparation de l’examen civique français**, obligatoire depuis le **1er janvier 2026** pour certaines démarches administratives telles que :
 
 - la **naturalisation française**
 - la **première demande de carte de résident**
@@ -80,10 +80,10 @@ Entraînement question par question avec correction immédiate et explications.
 Simulation dans les conditions réelles de l’examen civique.
 
 ### Mode révision
-Accès aux questions avec réponses expliquées pour revoir les notions importantes.
+Accès aux questions avec réponses expliquées pour revoir les notions essentielles.
 
 ### Flashcards
-Révision des dates, institutions, valeurs de la République, droits et devoirs.
+Révision des dates, des institutions, des valeurs de la République, des droits et devoirs.
 
 ### Analyse de progression
 Identification des points faibles pour mieux cibler les révisions.
@@ -136,7 +136,7 @@ L’examen civique officiel est organisé via le réseau des centres agréés.
 
 ## Important
 
-**LeTestCivique.fr** est une **plateforme indépendante de préparation** à l’examen civique.  
+**LeTestCivique.fr** est une **plateforme indépendante de préparation à l’examen civique**.  
 Elle n’est **pas un organisme officiel de passation**. L’examen civique officiel est organisé par les autorités compétentes et les centres agréés.
 
 ---
