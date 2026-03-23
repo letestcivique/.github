@@ -15,7 +15,7 @@ QCM, tests gratuits, simulations d’examen, flashcards et suivi de progression.
 - la **première demande de carte de résident**
 - la **première demande de carte de séjour pluriannuelle**
 
-La plateforme propose une préparation complète avec **plus de 1600 questions**, des **QCM interactifs**, des **simulations d’examen**, des **flashcards** et un **suivi de progression détaillé**.
+La plateforme propose une préparation complète avec une **large base de questions**, des **QCM interactifs**, des **simulations d’examen**, des **flashcards** et un **suivi de progression détaillé**.
 
 ---
 
