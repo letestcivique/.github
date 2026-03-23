@@ -1,2 +1,2 @@
 # .github
-Préparation examen civique 2026 – QCM, tests gratuits et simulations en ligne | letestcivique.fr
+Plateforme de préparation à l’examen civique français (2026) pour naturalisation, première demande de carte de résident et de titre de séjour pluriannuel.
